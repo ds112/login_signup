@@ -13,7 +13,7 @@ body {
   right: 0;
   width: 50%;
   height: 100%;
-  background: #3498db url(/image/signup.png);
+  background: #3498db url(/../image/signup.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -23,7 +23,7 @@ body {
   left: 0;
   width: 50%;
   height: 100%;
-  background: #e74c3c url(/image/login.jpg);
+  background: #e74c3c url(/../image/login.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
